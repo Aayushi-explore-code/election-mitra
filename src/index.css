@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-saffron: #FF9933;
+  --shadow-brutal: 8px 8px 0px 0px rgba(0,0,0,1);
+  --shadow-brutal-hover: 4px 4px 0px 0px rgba(0,0,0,1);
+}
+
+@layer base {
+  body {
+    background-color: white;
+    color: black;
+    font-family: "Lexend", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  }
+}
