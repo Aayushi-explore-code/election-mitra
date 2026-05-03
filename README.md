@@ -14,6 +14,12 @@
 *   **EVM Simulator**: A high-fidelity mimic of the Indian Ballot Unit with VVPAT animation.
 *   **Civic Assistant**: A contextual help system to solve common voting queries.
 
+## 🛠️ Tech Stack & Google Integration
+- **IDE**: Developed using **Google Antigravity** (Agentic Workflows).
+- **Cloud Platform**: Deployed on **Google Cloud Run** (Serverless).
+- **Infrastructure**: Managed via **Google Artifact Registry**.
+- **Testing**: Automated unit tests using **Vitest/Testing Library**.
+
 ## 🚀 Tech Stack & "Vibe"
 *   **Aesthetic**: Neo-Brutalist (High contrast, bold borders, Digital India Blue palette).
 *   **Framework**: React 18 + Vite.
